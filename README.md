@@ -1,13 +1,5 @@
 # Oi meu nome é Raphael!
 
-<div>
-  <p>Sou formado em Design Gráfico pela UNIP em 2015 e formado pela FMU em Analise e desenvolvimento de sistemas no ano de 2022, atuo no meio digital desde 2014. Neste tempo tive oportunidade de adquirir conhecimentos na área de E-learning, produção de conteúdos digitais para Educação Corporativa.</p>
-
-  <p>Sou apaixonado por tecnologia desde pequeno e também Educação gosto muito do que eu faço!</p>
-</div>
-
-<strong>Estou fazendo pós em Desenvolvimento Full-Stack na PUCRS</strong>
-
 ### Contato:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphawestim)
